@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE configuration PUBLIC "-//mybatis.org//DTD Config 3.0//EN" "http://mybatis.org/dtd/mybatis-3-config.dtd">
+<configuration>
+  <typeAliases>
+    <typeAlias type="com.kb.benefin.financeInfo.vo.FinanceInfoVo" alias="FinanceInfoVo"/>
+    <typeAlias type="com.kb.benefin.member.vo.MemberVo" alias="MemberVo"/>
+    <typeAlias type="com.kb.benefin.notice.vo.NoticeVo" alias="NoticeVo"/>
+    <typeAlias type="com.kb.benefin.report.vo.ReportVo" alias="ReportVo"/>
+    <typeAlias type="com.kb.benefin.test.vo.TestVo" alias="TestVo"/>
+    <typeAlias type="com.kb.benefin.testResult.vo.TestResultVo" alias="TestResultVo"/>
+    <typeAlias type="com.kb.benefin.product.product.vo.ProductVo" alias="ProductVo"/>
+    <typeAlias type="com.kb.benefin.product.gold.vo.GoldVo" alias="GoldVo"/>
+
+  </typeAliases>
+</configuration>
